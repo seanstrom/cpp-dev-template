@@ -1,0 +1,9 @@
+# Xmake cache
+.xmake/
+build/
+
+# GCC Module Cache
+gcm.cache/
+
+# MacOS Cache
+.DS_Store
