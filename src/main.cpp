@@ -1,3 +1,5 @@
+#include <string>
+
 import hello;
 
 int main() {
