@@ -5,5 +5,8 @@ build/
 # GCC Module Cache
 gcm.cache/
 
+# More Cache
+.cache/
+
 # MacOS Cache
 .DS_Store
